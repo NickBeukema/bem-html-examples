@@ -1,2 +1,2 @@
-# bem-html-examples
+# BEM HTML Examples
 Examples of HTML for BEM CSS
